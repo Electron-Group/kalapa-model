@@ -1,6 +1,6 @@
 # kalapa-model
 
-* Ở bộ: second challenge.iypnb
+* <h1>Ở bộ: second challenge.iypnb</h1>
 - Mình đã tách mỗi bộ dataset thành hai biến: categoric và numeric
 - Sau đó mình đã Fill_missing data bằng cách:
   + Với biến numeric: mình đã dùng giá trị mean cho mỗi ô NaN
@@ -8,7 +8,7 @@
 - Tiếp theo là mình đã clean bớt cột giống nhau trong cả hai bộ dataset
 - Sau đó mình dùng thư viện Autoviz và thư viện Sweetviz để biểu diễn cho mỗi biến
 - Tiếp đó mình đi tìm cộ nào có ảnh hưởng đến giá trị label nhiều nhất.
-* Ở tệp: Third challenge.iynb
+* <h1>Ở tệp: Third challenge.iynb</h1>
 - Đồng bộ hai bộ train và test
 - Sau đó, mình đã chia bộ train thành 5 loại:
   + I: Date/ DateTime/ x_startDate, x_endDate: đây là những feature có dữ liệu là ngày tháng năm
