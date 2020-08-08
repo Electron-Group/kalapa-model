@@ -17,3 +17,5 @@
   + IV: gioiTinh, info_social_sex: mình đã gộp hai feature này lại để giảm bớt truongf hợp thiếu
   + V: còn lại là những cột khác, cần phải xử lí nó, đồng thời drop những cột không cần thiết.
  - Cuối cùng là gộp nó thành một bộ dataset riêng, sau đó sẽ fill_missing data bằng những cách hợp lí
+*<h1>Ở bộ: kalapa-credit.iypnb(update)</h1>
+- Mặc dù hoàn chình nhưng còn sơ sài
